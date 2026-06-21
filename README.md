@@ -10,7 +10,7 @@ I like working on problems where the analysis has to connect to a real decision.
 
 SQL · Python (pandas, NumPy, scikit-learn, NLTK) · Tableau · Power BI · Matplotlib · Seaborn
 
-**Areas I've worked in**
+**Areas I've explored**
 
 Retail analytics &nbsp;·&nbsp; Public health &nbsp;·&nbsp; Telecom &nbsp;·&nbsp; NLP / text classification
 
